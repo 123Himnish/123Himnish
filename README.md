@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...linkedin
-- 📫 How to reach me ...morningtar616@gmail.com
+- 📫 How to reach me ...himnishis19@gmail.com
 
 <!---
 123Himnish/123Himnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
